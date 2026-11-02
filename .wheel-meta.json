@@ -1,0 +1,22 @@
+{
+  "wheel_id": 682,
+  "structure": "umbrella",
+  "slug": "springfield4300-105",
+  "project": "business-directory-springfield-timeline-4f819cb76274423763611f6",
+  "parent_t1_ref": "springfield4300-152",
+  "node_role": "feeder",
+  "money_target": "springfield4300.com.au",
+  "primary_kw": "business directory springfield timeline",
+  "intended_url": "https://sitesau.github.io/springfield4300-105/",
+  "tier": "T2",
+  "writeback_nonce": "36c5d8a4568fa8df",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/business-directory-springfield-e514bade56fa2d684c767fca3cbc1fad/",
+      "anchor": "Business Directory Springfield: A Shortlisting Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
